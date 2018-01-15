@@ -24,6 +24,8 @@
             <groupId>epam-kb</groupId>
             <artifactId>calcJar</artifactId>
             <version>1.0</version>
+            <systemPath>${basedir}/src/calculator-1.0.jar</systemPath>
+            <scope>system</scope>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
